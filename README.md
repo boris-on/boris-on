@@ -10,8 +10,8 @@ me := Developer{
   },
   Tools: []string{
     "Docker",
-    "Kubernetes",
-    "Jenkins",
+    "PostgreSQL",
+    "Kafka",
     "GitHub Actions", 
     "Ansible"
   }
