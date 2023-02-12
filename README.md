@@ -21,7 +21,8 @@ me := Developer{
 }
 ```
 
-![](https://img.shields.io/badge/OS-Linux-informational=?style=for-the-badge&logo=linux&logoColor=white&color=black)
+![](https://img.shields.io/badge/OS-Debian-informational=?style=for-the-badge&logo=debian&logoColor=white&color=black)
+![](https://img.shields.io/badge/OS-KaiOS-informational=?style=for-the-badge&logo=kaios&logoColor=white&color=black)
 ![](https://img.shields.io/badge/Code-Go-informational=?style=for-the-badge&logo=go&logoColor=white&color=black)
 ![](https://img.shields.io/badge/Code-Python-informational=?style=for-the-badge&logo=python&logoColor=white&color=black)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&color=black)
