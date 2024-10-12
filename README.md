@@ -1,31 +1,25 @@
-#  Go Developer 
-More on [boris-on.github.io](https://boris-on.github.io)
+# Ежедневная Интерактивная История
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=boris-on/boris-on)
+Добро пожаловать в **Ежедневную Интерактивную Историю**, где каждый из вас может влиять на судьбу нашего главного героя — 19-летнего студента по имени Роман! Каждый день история будет продолжаться, а ваше голосование определит, как именно она будет развиваться.
 
-```go
-me := Developer{
-  Name: "Boris",
-  Position: "Student",
-  Languages: []string{
-    "Go",
-    "Python"
-  },
-  Tools: []string{
-    "Docker",
-    "PostgreSQL",
-    "Kafka",
-    "GitHub Actions", 
-    "Ansible"
-  }
-}
-```
+## Текущая история
 
-![](https://img.shields.io/badge/OS-Mint-informational=?style=for-the-badge&logo=linuxmint&logoColor=white&color=black)
-![](https://img.shields.io/badge/OS-KaiOS-informational=?style=for-the-badge&logo=kaios&logoColor=white&color=black)
-![](https://img.shields.io/badge/Code-Go-informational=?style=for-the-badge&logo=go&logoColor=white&color=black)
-![](https://img.shields.io/badge/Code-Python-informational=?style=for-the-badge&logo=python&logoColor=white&color=black)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&color=black)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=for-the-badge&logo=postgresql&logoColor=white&color=black)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=for-the-badge&logo=docker&logoColor=white&color=black)
-![](https://img.shields.io/badge/Tools-Kafka-informational?style=for-the-badge&logo=apachekafka&logoColor=white&color=black)
+### День 1: Начало
+
+_12 октября 2024 года. Роман — 19-летний студент экономического факультета, увлекающийся коллекционированием старого алкоголя, но его интересы этим не ограничиваются. Сегодня Роман встал рано, чувствуя, что день может преподнести ему что-то необычное._
+
+Что должен сделать Роман дальше?
+- Вариант 1: Пойти на лекцию по макроэкономике 📘
+- Вариант 2: Зайти в антикварный магазин в поисках редкой бутылки 🍷
+- Вариант 3: Встретиться с другом в кафе, чтобы обсудить планы на вечер ☕
+
+**Голосуйте ниже:**
+
+[![](https://img.shields.io/badge/Вариант%201-brightgreen)](https://your-server.com/vote/1)  
+[![](https://img.shields.io/badge/Вариант%202-blue)](https://your-server.com/vote/2)  
+[![](https://img.shields.io/badge/Вариант%203-yellow)](https://your-server.com/vote/3)
+
+## Как участвовать
+1. Каждый день читайте новую часть истории.
+2. Выбирайте, что должно произойти дальше, и голосуйте, кликнув на соответствующую кнопку.
+3. Возвращайтесь на следующий день, чтобы узнать продолжение!
